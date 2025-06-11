@@ -1,0 +1,4 @@
+-	Supports role-based access for students, faculty, and administrators. 
+-	Faculty and student organizers can create, update, and manage events. 
+-	Allows students to register for events. 
+-	Provides a user-friendly interface for desktop and mobile users. 
